@@ -1,0 +1,11 @@
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\bin\Debug\net8.0\IMS_Gadget.Utility.deps.json
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\bin\Debug\net8.0\IMS_Gadget.Utility.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\bin\Debug\net8.0\IMS_Gadget.Utility.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\IMS_Gadget.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\IMS_Gadget.Utility.AssemblyInfoInputs.cache
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\IMS_Gadget.Utility.AssemblyInfo.cs
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\IMS_Gadget.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\IMS_Gadget.Utility.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\refint\IMS_Gadget.Utility.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\IMS_Gadget.Utility.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.Utility\obj\Debug\net8.0\ref\IMS_Gadget.Utility.dll

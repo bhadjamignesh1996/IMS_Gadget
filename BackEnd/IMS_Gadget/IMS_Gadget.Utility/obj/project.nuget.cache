@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "frMk+J7HawQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mignesh\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Mignesh\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\Mignesh\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mignesh\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

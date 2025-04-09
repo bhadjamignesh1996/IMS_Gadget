@@ -1,0 +1,5 @@
+<!-- If current route is not login, show sidebar -->
+<app-sidebar *ngIf="router.url !== '/login'"></app-sidebar>
+
+<!-- Only show login view without layout -->
+<router-outlet *ngIf="router.url === '/login'"></router-outlet>

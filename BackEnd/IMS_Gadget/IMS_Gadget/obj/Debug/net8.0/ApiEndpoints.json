@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "IMS_Gadget.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ARVM",
+        "Type": "IMS_Gadget.BalLayer.ViewModel.AuthenticationViewModel\u002BAuthenticationRequestViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMS_Gadget.Controllers.GadgetController",
+    "Method": "DeleteGadget",
+    "RelativePath": "api/Gadget/DeleteGadget/{GadgetIds}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "GadgetIds",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMS_Gadget.Controllers.GadgetController",
+    "Method": "GetGadget",
+    "RelativePath": "api/Gadget/GetGadget",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMS_Gadget.Controllers.GadgetController",
+    "Method": "GetGadgetById",
+    "RelativePath": "api/Gadget/GetGadgetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMS_Gadget.Controllers.GadgetController",
+    "Method": "UpsertGadget",
+    "RelativePath": "api/Gadget/UpsertGadget",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gadgetsViewModel",
+        "Type": "IMS_Gadget.BalLayer.ViewModel.GadgetsViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

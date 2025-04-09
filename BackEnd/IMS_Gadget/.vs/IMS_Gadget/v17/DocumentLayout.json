@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.ballayer\\services\\service_gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|solutionrelative:ims_gadget.ballayer\\services\\service_gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.ballayer\\interfaces\\igadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|solutionrelative:ims_gadget.ballayer\\interfaces\\igadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\extensions\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\extensions\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\actionfilters\\tokenverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\actionfilters\\tokenverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.ballayer\\authtoken\\authtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|solutionrelative:ims_gadget.ballayer\\authtoken\\authtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.ballayer\\services\\service_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|solutionrelative:ims_gadget.ballayer\\services\\service_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.utility\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|solutionrelative:ims_gadget.utility\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.utility\\commonenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|solutionrelative:ims_gadget.utility\\commonenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.ballayer\\viewmodel\\authenticationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|solutionrelative:ims_gadget.ballayer\\viewmodel\\authenticationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.ballayer\\interfaces\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|solutionrelative:ims_gadget.ballayer\\interfaces\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C4E747-A955-428E-8ACE-DA3E2F31E5DB}|IMS_Gadget.DalLayer\\IMS_Gadget.DalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.dallayer\\repositories\\repository_imsgadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C4E747-A955-428E-8ACE-DA3E2F31E5DB}|IMS_Gadget.DalLayer\\IMS_Gadget.DalLayer.csproj|solutionrelative:ims_gadget.dallayer\\repositories\\repository_imsgadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C4E747-A955-428E-8ACE-DA3E2F31E5DB}|IMS_Gadget.DalLayer\\IMS_Gadget.DalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.dallayer\\dbcontexts\\imsgadgetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C4E747-A955-428E-8ACE-DA3E2F31E5DB}|IMS_Gadget.DalLayer\\IMS_Gadget.DalLayer.csproj|solutionrelative:ims_gadget.dallayer\\dbcontexts\\imsgadgetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABFD151-3949-4B0B-B7BE-2F1A4043A548}|IMS_Gadget.ServerModel\\IMS_Gadget.ServerModel.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.servermodel\\usersservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABFD151-3949-4B0B-B7BE-2F1A4043A548}|IMS_Gadget.ServerModel\\IMS_Gadget.ServerModel.csproj|solutionrelative:ims_gadget.servermodel\\usersservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABFD151-3949-4B0B-B7BE-2F1A4043A548}|IMS_Gadget.ServerModel\\IMS_Gadget.ServerModel.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.servermodel\\baseservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABFD151-3949-4B0B-B7BE-2F1A4043A548}|IMS_Gadget.ServerModel\\IMS_Gadget.ServerModel.csproj|solutionrelative:ims_gadget.servermodel\\baseservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.utility\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|solutionrelative:ims_gadget.utility\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.ballayer\\viewmodel\\gadgetsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8F2FD-AF02-4716-A9EA-2B84181542C0}|IMS_Gadget.BalLayer\\IMS_Gadget.BalLayer.csproj|solutionrelative:ims_gadget.ballayer\\viewmodel\\gadgetsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABFD151-3949-4B0B-B7BE-2F1A4043A548}|IMS_Gadget.ServerModel\\IMS_Gadget.ServerModel.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.servermodel\\gadgetsservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABFD151-3949-4B0B-B7BE-2F1A4043A548}|IMS_Gadget.ServerModel\\IMS_Gadget.ServerModel.csproj|solutionrelative:ims_gadget.servermodel\\gadgetsservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.utility\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|solutionrelative:ims_gadget.utility\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.utility\\setresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|solutionrelative:ims_gadget.utility\\setresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C4E747-A955-428E-8ACE-DA3E2F31E5DB}|IMS_Gadget.DalLayer\\IMS_Gadget.DalLayer.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.dallayer\\repositories\\commonrepositories\\commoncrudimsgadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C4E747-A955-428E-8ACE-DA3E2F31E5DB}|IMS_Gadget.DalLayer\\IMS_Gadget.DalLayer.csproj|solutionrelative:ims_gadget.dallayer\\repositories\\commonrepositories\\commoncrudimsgadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\extensions\\swagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\extensions\\swagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget\\extensions\\applicationdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB135E-F801-49FC-ACD4-CEA46F765427}|IMS_Gadget\\IMS_Gadget.csproj|solutionrelative:ims_gadget\\extensions\\applicationdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|c:\\users\\mignesh\\desktop\\practical\\ims_gadget\\ims_gadget.utility\\systemexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70032BD9-619E-4304-8FD3-5B36170299AC}|IMS_Gadget.Utility\\IMS_Gadget.Utility.csproj|solutionrelative:ims_gadget.utility\\systemexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GadgetController.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Controllers\\GadgetController.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\Controllers\\GadgetController.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Controllers\\GadgetController.cs",
+              "RelativeToolTip": "IMS_Gadget\\Controllers\\GadgetController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:04:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service_Gadget.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Services\\Service_Gadget.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.BalLayer\\Services\\Service_Gadget.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Services\\Service_Gadget.cs",
+              "RelativeToolTip": "IMS_Gadget.BalLayer\\Services\\Service_Gadget.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:00:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGadget.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Interfaces\\IGadget.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.BalLayer\\Interfaces\\IGadget.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Interfaces\\IGadget.cs",
+              "RelativeToolTip": "IMS_Gadget.BalLayer\\Interfaces\\IGadget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:58:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service_Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Services\\Service_Auth.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.BalLayer\\Services\\Service_Auth.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Services\\Service_Auth.cs",
+              "RelativeToolTip": "IMS_Gadget.BalLayer\\Services\\Service_Auth.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:09:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\AppSettings.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.Utility\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\AppSettings.cs",
+              "RelativeToolTip": "IMS_Gadget.Utility\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:29:50.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Extensions\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\Extensions\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Extensions\\ApplicationService.cs",
+              "RelativeToolTip": "IMS_Gadget\\Extensions\\ApplicationService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswCsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:52:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthToken.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\AuthToken\\AuthToken.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.BalLayer\\AuthToken\\AuthToken.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\AuthToken\\AuthToken.cs",
+              "RelativeToolTip": "IMS_Gadget.BalLayer\\AuthToken\\AuthToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:24:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenVerify.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\ActionFilters\\TokenVerify.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\ActionFilters\\TokenVerify.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\ActionFilters\\TokenVerify.cs",
+              "RelativeToolTip": "IMS_Gadget\\ActionFilters\\TokenVerify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:33:57.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "IMS_Gadget\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB0AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:40:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\ViewModel\\AuthenticationViewModel.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.BalLayer\\ViewModel\\AuthenticationViewModel.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\ViewModel\\AuthenticationViewModel.cs",
+              "RelativeToolTip": "IMS_Gadget.BalLayer\\ViewModel\\AuthenticationViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:07:05.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Interfaces\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.BalLayer\\Interfaces\\IAuthentication.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\Interfaces\\IAuthentication.cs",
+              "RelativeToolTip": "IMS_Gadget.BalLayer\\Interfaces\\IAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:06:39.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMSGadgetDB.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.DalLayer\\DbContexts\\IMSGadgetDB.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.DalLayer\\DbContexts\\IMSGadgetDB.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.DalLayer\\DbContexts\\IMSGadgetDB.cs",
+              "RelativeToolTip": "IMS_Gadget.DalLayer\\DbContexts\\IMSGadgetDB.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:52:29.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\CommonEnum.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.Utility\\CommonEnum.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\CommonEnum.cs",
+              "RelativeToolTip": "IMS_Gadget.Utility\\CommonEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:15:15.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersServerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.ServerModel\\UsersServerModel.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.ServerModel\\UsersServerModel.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.ServerModel\\UsersServerModel.cs",
+              "RelativeToolTip": "IMS_Gadget.ServerModel\\UsersServerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:01:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository_IMSGadget.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.DalLayer\\Repositories\\Repository_IMSGadget.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.DalLayer\\Repositories\\Repository_IMSGadget.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.DalLayer\\Repositories\\Repository_IMSGadget.cs",
+              "RelativeToolTip": "IMS_Gadget.DalLayer\\Repositories\\Repository_IMSGadget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:38:46.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseServerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.ServerModel\\BaseServerModel.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.ServerModel\\BaseServerModel.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.ServerModel\\BaseServerModel.cs",
+              "RelativeToolTip": "IMS_Gadget.ServerModel\\BaseServerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:42:03.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InternalServerErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\InternalServerErrorException.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.Utility\\InternalServerErrorException.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\InternalServerErrorException.cs",
+              "RelativeToolTip": "IMS_Gadget.Utility\\InternalServerErrorException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:26:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GadgetsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\ViewModel\\GadgetsViewModel.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.BalLayer\\ViewModel\\GadgetsViewModel.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.BalLayer\\ViewModel\\GadgetsViewModel.cs",
+              "RelativeToolTip": "IMS_Gadget.BalLayer\\ViewModel\\GadgetsViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:57:54.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GadgetsServerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.ServerModel\\GadgetsServerModel.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.ServerModel\\GadgetsServerModel.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.ServerModel\\GadgetsServerModel.cs",
+              "RelativeToolTip": "IMS_Gadget.ServerModel\\GadgetsServerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:43:57.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\appsettings.json",
+              "RelativeDocumentMoniker": "IMS_Gadget\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\appsettings.json",
+              "RelativeToolTip": "IMS_Gadget\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T15:28:23.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Startup.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\Startup.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Startup.cs",
+              "RelativeToolTip": "IMS_Gadget\\Startup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:49:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SetResponseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\SetResponseHelper.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.Utility\\SetResponseHelper.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\SetResponseHelper.cs",
+              "RelativeToolTip": "IMS_Gadget.Utility\\SetResponseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:08:34.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResponseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\ResponseHelper.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.Utility\\ResponseHelper.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\ResponseHelper.cs",
+              "RelativeToolTip": "IMS_Gadget.Utility\\ResponseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:07:51.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Program.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\Program.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Program.cs",
+              "RelativeToolTip": "IMS_Gadget\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:37:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommonCRUDIMSGadget.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.DalLayer\\Repositories\\CommonRepositories\\CommonCRUDIMSGadget.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.DalLayer\\Repositories\\CommonRepositories\\CommonCRUDIMSGadget.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.DalLayer\\Repositories\\CommonRepositories\\CommonCRUDIMSGadget.cs",
+              "RelativeToolTip": "IMS_Gadget.DalLayer\\Repositories\\CommonRepositories\\CommonCRUDIMSGadget.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIBZwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:46:21.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Extensions\\ApplicationDbConnection.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\Extensions\\ApplicationDbConnection.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Extensions\\ApplicationDbConnection.cs",
+              "RelativeToolTip": "IMS_Gadget\\Extensions\\ApplicationDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:50:37.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Swagger.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Extensions\\Swagger.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget\\Extensions\\Swagger.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget\\Extensions\\Swagger.cs",
+              "RelativeToolTip": "IMS_Gadget\\Extensions\\Swagger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:04:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SystemExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\SystemExceptions.cs",
+              "RelativeDocumentMoniker": "IMS_Gadget.Utility\\SystemExceptions.cs",
+              "ToolTip": "C:\\Users\\Mignesh\\Desktop\\Practical\\IMS_Gadget\\IMS_Gadget.Utility\\SystemExceptions.cs",
+              "RelativeToolTip": "IMS_Gadget.Utility\\SystemExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:48:48.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

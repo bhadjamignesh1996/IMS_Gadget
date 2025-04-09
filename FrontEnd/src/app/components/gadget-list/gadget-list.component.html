@@ -1,0 +1,64 @@
+<div class="overflow-x-auto">
+
+  <div class="mb-4 flex justify-end">
+    <button (click)="showAddModal = true" class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded">
+      + Add Gadget
+    </button>
+  </div>
+
+
+
+  <!-- Table -->
+  <table class="min-w-full border rounded">
+    <thead class="bg-gray-100">
+      <tr>
+        <th class="border px-4 py-2">
+          <input type="checkbox" (change)="toggleAll($event)" [checked]="allSelected()" />
+        </th>
+        <th class="border px-4 py-2">Name</th>
+        <th class="border px-4 py-2">Category</th>
+        <th class="border px-4 py-2">Price</th>
+        <th class="border px-4 py-2">Stock</th>
+        <th class="border px-4 py-2">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let gadget of pagedGadgets">
+        <td class="border px-4 py-2 text-center">
+          <input type="checkbox" [value]="gadget.id" (change)="toggleSelection(gadget.id)"
+            [checked]="selectedGadgets.includes(gadget.id)" />
+        </td>
+        <td class="border px-4 py-2" (click)="viewDetails(gadget.id)">{{ gadget.name }}</td>
+        <td class="border px-4 py-2">{{ gadget.category }}</td>
+        <td class="border px-4 py-2">{{ gadget.price }}</td>
+        <td class="border px-4 py-2">{{ gadget.quantity }}</td>
+        <td class="border px-4 py-2 space-x-2">
+          <button (click)="editGadget(gadget)" class="text-blue-600 hover:underline">Edit</button>
+          <button (click)="deleteGadget(gadget.id)" class="text-red-600 hover:underline">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="mt-4 flex justify-between items-center">
+    <button (click)="deleteSelected()" [disabled]="!selectedGadgets.length"
+      class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded disabled:opacity-50">
+      Delete Selected
+    </button>
+
+    <!-- Pagination Controls -->
+    <div class="space-x-2">
+      <button (click)="prevPage()" [disabled]="currentPage === 1" class="px-3 py-1 bg-gray-200 rounded">
+        Prev
+      </button>
+      <span>Page {{ currentPage }} of {{ totalPages }}</span>
+      <button (click)="nextPage()" [disabled]="currentPage === totalPages" class="px-3 py-1 bg-gray-200 rounded">
+        Next
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- Add Gadget Modal -->
+<app-add-gadget-modal *ngIf="showAddModal" (close)="showAddModal = false;editGadgetId=0" (save)="getGadgets()"
+  [gadgetId]="editGadgetId">
+</app-add-gadget-modal>

@@ -1,0 +1,96 @@
+<div
+  *ngIf="fieldData?.invalid && fieldData?.touched"
+  class="text-red-50 input-error"
+  style="color: red"
+>
+  <span *ngIf="fieldData?.errors?.['required']">{{ name }} required.</span>
+
+  <span *ngIf="fieldData?.errors?.['requiredTrue']">{{ name }} required.</span>
+
+  <span *ngIf="fieldData?.errors?.['email']"
+    >You have entered an invalid email address.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['pattern']">{{ name }} is invalid.</span>
+
+  <span class="text-danger" *ngIf="fieldData?.errors?.['maxlength']"
+    ><i class="fa fa-info-circle"></i> {{ name }} should be less than
+    {{fieldData?.errors?.['maxlength']?.requiredLength+ 1}} characters .</span
+  >
+
+  <span class="text-danger" *ngIf="fieldData?.errors?.['minlength']"
+    ><i class="fa fa-info-circle"></i> {{ name }} should be greater than
+    {{fieldData?.errors?.['minlength']?.requiredLength - 1}} characters .</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['min']"
+    >{{ name }} should be greater than {{ cname }}.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['max']"
+    >{{ name }} value not allowed more than
+    {{fieldData?.errors?.['max'].max}}.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['stringNumberSpace']"
+    >{{ name }} only allowed alphanumeric.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['stringNumber']"
+    >{{ name }} {{fieldData?.errors?.['msg']}}</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['cannotContainSpaceInStartEnd']"
+    >{{ name }} remove any space at the start and end.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['onlyNumber']"
+    >{{ name }} only allowed in numerics.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['recoveryEmailSameNotAllow']"
+    >Recovery email and registered email can not be same .</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['passwordNotMatch']"
+    >Password does not match.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['ageNotMatch']"
+    >Minimum age required 16 years.</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['dateLessThen']"
+    >{{ name }} must be greater than today.</span
+  >
+
+  <span
+    *ngIf="fieldData?.errors?.['endDateLessThenStartDate']"
+    >{{fieldData?.errors?.['msg']}}</span
+  >
+
+  <span
+    *ngIf="fieldData?.errors?.['serverSideMSG'] && fieldData?.errors?.['msg'] != ''"
+    >{{fieldData?.errors?.['msg']}}</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['httpsNotIn']"
+    >{{ name }} must start with https:// .</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['birthYearFormat']"
+    >Birth year format YYYY (Eg.2022).</span
+  >
+  <!-- <span *ngIf="fieldData?.errors?.['dob16year']">Please confirm that you are 16 years of age or older.
+
+    </span> -->
+  <span *ngIf="fieldData?.errors?.['dob13year']"
+    >Please confirm that you are 13 years of age or older.
+  </span>
+
+  <span *ngIf="fieldData?.errors?.['birthMonthFormat']"
+    >Birth month format MM (Eg.01).</span
+  >
+
+  <span *ngIf="fieldData?.errors?.['invalidFileType']">invalid file type</span>
+</div>

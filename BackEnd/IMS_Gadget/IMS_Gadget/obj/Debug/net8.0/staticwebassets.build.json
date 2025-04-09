@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UJlD+2n7EGfQlBLgHY2AW28XqM1BmirzzRXqxo/JoNY=",
+  "Source": "IMS_Gadget",
+  "BasePath": "_content/IMS_Gadget",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

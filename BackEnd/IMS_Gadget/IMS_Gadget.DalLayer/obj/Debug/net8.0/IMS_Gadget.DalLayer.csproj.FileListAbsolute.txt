@@ -1,0 +1,17 @@
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\bin\Debug\net8.0\IMS_Gadget.DalLayer.deps.json
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\bin\Debug\net8.0\IMS_Gadget.DalLayer.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\bin\Debug\net8.0\IMS_Gadget.DalLayer.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\bin\Debug\net8.0\IMS_Gadget.ServerModel.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\bin\Debug\net8.0\IMS_Gadget.Utility.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\bin\Debug\net8.0\IMS_Gadget.ServerModel.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\bin\Debug\net8.0\IMS_Gadget.Utility.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadget.DalLayer.csproj.AssemblyReference.cache
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadget.DalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadget.DalLayer.AssemblyInfoInputs.cache
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadget.DalLayer.AssemblyInfo.cs
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadget.DalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadg.03D6C27F.Up2Date
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadget.DalLayer.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\refint\IMS_Gadget.DalLayer.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\IMS_Gadget.DalLayer.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.DalLayer\obj\Debug\net8.0\ref\IMS_Gadget.DalLayer.dll

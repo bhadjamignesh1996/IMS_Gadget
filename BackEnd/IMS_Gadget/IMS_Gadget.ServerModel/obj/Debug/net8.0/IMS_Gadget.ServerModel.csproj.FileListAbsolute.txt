@@ -1,0 +1,11 @@
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\bin\Debug\net8.0\IMS_Gadget.ServerModel.deps.json
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\bin\Debug\net8.0\IMS_Gadget.ServerModel.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\bin\Debug\net8.0\IMS_Gadget.ServerModel.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\IMS_Gadget.ServerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\IMS_Gadget.ServerModel.AssemblyInfoInputs.cache
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\IMS_Gadget.ServerModel.AssemblyInfo.cs
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\IMS_Gadget.ServerModel.csproj.CoreCompileInputs.cache
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\IMS_Gadget.ServerModel.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\refint\IMS_Gadget.ServerModel.dll
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\IMS_Gadget.ServerModel.pdb
+C:\Users\Mignesh\Desktop\Practical\IMS_Gadget\IMS_Gadget.ServerModel\obj\Debug\net8.0\ref\IMS_Gadget.ServerModel.dll
