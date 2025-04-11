@@ -27,7 +27,7 @@ namespace IMS_Gadget.Extensions
 
             //ActionFilters
 
-            //services.AddTransient(typeof(ActionFilters.TokenVerify));
+            services.AddTransient(typeof(ActionFilters.TokenVerify));
 
             
 
