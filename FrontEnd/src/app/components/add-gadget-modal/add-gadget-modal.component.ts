@@ -62,6 +62,7 @@ export class AddGadgetModalComponent {
       this.commonApiService.getRequest("Gadget/GetGadgetById/" + this.gadgetId).subscribe((res) => {
         if (res) {
           this.commonService.setEditData(this.addGadgetForm,res.data);
+          this.addGadgetForm?.get('secretInfo')?.setValue(this.commonService.decrypt(this.addGadgetForm.value.secretInfo) )
         }
       })
     }
